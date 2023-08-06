@@ -9,7 +9,6 @@
     "help_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-qjs-dtb"
   },
   "releases": {
-    "_": "https://raw.githubusercontent.com/soufangtuan/redpill-load-jumkey-a/soufangtuan-patch-1/redpill-qjs-dtb/recipes/universal.json",
     "ds920p_42218": "https://raw.githubusercontent.com/soufangtuan/redpill-load-jumkey-a/soufangtuan-patch-1/redpill-qjs-dtb/recipes/universal.json",
     "ds1621p_42218": "https://raw.githubusercontent.com/soufangtuan/redpill-load-jumkey-a/soufangtuan-patch-1/redpill-qjs-dtb/recipes/universal.json",
     "ds2422p_42218": "https://raw.githubusercontent.com/soufangtuan/redpill-load-jumkey-a/soufangtuan-patch-1/redpill-qjs-dtb/recipes/universal.json",
